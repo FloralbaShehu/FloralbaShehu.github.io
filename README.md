@@ -10,7 +10,7 @@ LinkedIn · GitHub
 
 ## Profile
 
-Final-year Business Informatics student at Epoka University (50% merit scholarship) with hands-on experience in full-cycle accounting, banking IT operations, and high-volume cash management. Trained in Albanian fiscal legislation and Alpha Web Business at Albanian Tax & Consulting. Proven in fast-paced environments across Albania and the United States. Fluent in English (C2).
+Final-year Business Informatics student at Epoka University with hands-on experience in full-cycle accounting, banking IT operations, and high-volume cash management. Skilled in financial reporting, tax declarations, and accounting systems including Alpha Web Business and Finance 5. Proven ability to operate in fast-paced environments across Albania and the United States, consistently handling high transaction volumes with accuracy. Fluent in English (C2).
 
 ---
 
