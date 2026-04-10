@@ -83,7 +83,7 @@ Certificate | Issuer | Date
 ATC Accounting Programme (Very Good) | Albanian Tax & Consulting | April 2026  
 RoboTech School | Metropolitan University Tirana | September 2022  
 Rinia Trashëgon — National Youth Congress | Bashkia Tiranë | September 2022  
-Alison CPD-Certified — Linux & OS Series | Alison Online Courses | 2024  
+Alison CPD-Certified — Linux & OS Series | Alison Online Courses | 2026
 
 ATC Modules: Accounting in IT · Finance 5.0 Practical · Balance Sheets & Financial Statements · Tax Legislation & Customs · Online Declarations · Alpha Web Business · Licence LN-3494-01-2022  
 
